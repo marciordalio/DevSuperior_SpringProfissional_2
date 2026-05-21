@@ -15,3 +15,9 @@ INSERT INTO tb_participante (nome, email) VALUES ('Tiago Faria', 'tiago@gmail.co
 INSERT INTO tb_participante (nome, email) VALUES ('Maria do Rosário', 'maria@gmail.com');
 INSERT INTO tb_participante (nome, email) VALUES ('Teresa Silva', 'teresa@gmail.com');
 
+INSERT INTO tb_atividade_participante (id_atividade, id_participante) VALUES (1,1 );
+INSERT INTO tb_atividade_participante (id_atividade, id_participante) VALUES (1,2 );
+INSERT INTO tb_atividade_participante (id_atividade, id_participante) VALUES (1,3 );
+INSERT INTO tb_atividade_participante (id_atividade, id_participante) VALUES (2,1 );
+INSERT INTO tb_atividade_participante (id_atividade, id_participante) VALUES (2,3 );
+INSERT INTO tb_atividade_participante (id_atividade, id_participante) VALUES (2,4 );
